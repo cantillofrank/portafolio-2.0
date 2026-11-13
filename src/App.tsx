@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo, useCallback } from 'react'
 import { personalData } from './data/portfolioData'
-import fotoPerfil from './assets/perfil.jpg'
+import fotoPerfil from './assets/perfil.png'
 import './App.css'
 import { FaGithub, FaEnvelope } from 'react-icons/fa'
 
